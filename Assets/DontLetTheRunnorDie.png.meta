@@ -1,0 +1,965 @@
+fileFormatVersion: 2
+guid: eeda4cf1506a723458ab4ba4397ee71d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1817064309425749861
+    second: DontLetTheRunnorDie_0
+  - first:
+      213: 5663409373427139356
+    second: DontLetTheRunnorDie_1
+  - first:
+      213: -9091667311399146381
+    second: DontLetTheRunnorDie_2
+  - first:
+      213: 4978269303661567487
+    second: DontLetTheRunnorDie_3
+  - first:
+      213: 287104700342492500
+    second: DontLetTheRunnorDie_4
+  - first:
+      213: -5386372532598405653
+    second: DontLetTheRunnorDie_5
+  - first:
+      213: -700998716558361711
+    second: DontLetTheRunnorDie_6
+  - first:
+      213: -8102011737169419590
+    second: DontLetTheRunnorDie_7
+  - first:
+      213: 6939181237913043080
+    second: DontLetTheRunnorDie_8
+  - first:
+      213: -4639127887853325572
+    second: DontLetTheRunnorDie_9
+  - first:
+      213: 7150890040549283296
+    second: DontLetTheRunnorDie_10
+  - first:
+      213: 3436510748582234807
+    second: DontLetTheRunnorDie_11
+  - first:
+      213: 1675310688755675979
+    second: DontLetTheRunnorDie_12
+  - first:
+      213: 6948337713464201746
+    second: DontLetTheRunnorDie_13
+  - first:
+      213: 1194654876249361524
+    second: DontLetTheRunnorDie_14
+  - first:
+      213: 1471270846843406181
+    second: DontLetTheRunnorDie_15
+  - first:
+      213: 2284359544973732459
+    second: DontLetTheRunnorDie_16
+  - first:
+      213: 437468211027875171
+    second: DontLetTheRunnorDie_17
+  - first:
+      213: -8645577324136978590
+    second: DontLetTheRunnorDie_18
+  - first:
+      213: -6337553919721628260
+    second: DontLetTheRunnorDie_19
+  - first:
+      213: 5996680107383396933
+    second: DontLetTheRunnorDie_20
+  - first:
+      213: 2559397764398707386
+    second: DontLetTheRunnorDie_21
+  - first:
+      213: 5605948245676417359
+    second: DontLetTheRunnorDie_22
+  - first:
+      213: 3087197320244319520
+    second: DontLetTheRunnorDie_23
+  - first:
+      213: 6593686340059085102
+    second: DontLetTheRunnorDie_24
+  - first:
+      213: -3464235951464441756
+    second: DontLetTheRunnorDie_25
+  - first:
+      213: -5293386769194472102
+    second: DontLetTheRunnorDie_26
+  - first:
+      213: 6541710580434109903
+    second: DontLetTheRunnorDie_27
+  - first:
+      213: 7609072536927241770
+    second: DontLetTheRunnorDie_28
+  - first:
+      213: -1150193928431310451
+    second: DontLetTheRunnorDie_29
+  - first:
+      213: -2831435860484035199
+    second: DontLetTheRunnorDie_30
+  - first:
+      213: -3387800140607688024
+    second: DontLetTheRunnorDie_31
+  - first:
+      213: -2884962947113309662
+    second: DontLetTheRunnorDie_32
+  - first:
+      213: -3489003002379617277
+    second: DontLetTheRunnorDie_33
+  - first:
+      213: 2853465261385985528
+    second: DontLetTheRunnorDie_34
+  - first:
+      213: 1210749308220844459
+    second: DontLetTheRunnorDie_35
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DontLetTheRunnorDie_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4afd59d7465e74bbc3d7a276cbb4b1
+      internalID: 1817064309425749861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DontLetTheRunnorDie_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3eae73343ddfdc4c84e21fb6145bd04
+      internalID: 5663409373427139356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DontLetTheRunnorDie_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df2e3dc409d996458888ef6c73f117a
+      internalID: -9091667311399146381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DontLetTheRunnorDie_3
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9987237bcc96fcf468b5046756cab6f4
+      internalID: 4978269303661567487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DontLetTheRunnorDie_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e0b60c89c2c3c42bc2a3ef8bd88559
+      internalID: 287104700342492500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DontLetTheRunnorDie_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73f4941df181074fa5398cd6ed181dc
+      internalID: -5386372532598405653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DontLetTheRunnorDie_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90111af14f4e444fad1cc601920fcd7
+      internalID: -700998716558361711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DontLetTheRunnorDie_7
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 18
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58dfa7883d348084c82d7f00954a6a4d
+      internalID: -8102011737169419590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DontLetTheRunnorDie_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26a51bc2dd6a2c4e820a016a16a9fd0
+      internalID: 6939181237913043080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DontLetTheRunnorDie_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9e77728329be2459ba2afe345c2c7a
+      internalID: -4639127887853325572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DontLetTheRunnorDie_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a54ff89cb26eae439b481d80ad3615c
+      internalID: 7150890040549283296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DontLetTheRunnorDie_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c171658f4c6ff3744b48d8cdfcb06eb1
+      internalID: 3436510748582234807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DontLetTheRunnorDie_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38f82f7558360742bacd38b576e4f8b
+      internalID: 1675310688755675979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DontLetTheRunnorDie_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6529e2261e2d60c41a5d21ee3a5e9229
+      internalID: 6948337713464201746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DontLetTheRunnorDie_14
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea65de1f11af7d546bb5a0828777fd65
+      internalID: 1194654876249361524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DontLetTheRunnorDie_15
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 32
+        width: 16
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea0d688c3d5cf142bd54d2a617b8058
+      internalID: 1471270846843406181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DontLetTheRunnorDie_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f119372b6ccaa874cb679d94bfcd5e42
+      internalID: 2284359544973732459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DontLetTheRunnorDie_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf06b20e5fa523498a5b61a172ef7a0
+      internalID: 437468211027875171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DontLetTheRunnorDie_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488a7beeeca9e964fad5488cd4b78f76
+      internalID: -8645577324136978590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DontLetTheRunnorDie_19
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a80033b2a60b44b8d5551f2f7e6bc6
+      internalID: -6337553919721628260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DontLetTheRunnorDie_20
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 34
+        width: 16
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d041e555b9fdbf24385788589957987c
+      internalID: 5996680107383396933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DontLetTheRunnorDie_21
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 24
+        width: 1
+        height: 4
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0612edf15e3a94ea0db7bc3cb76077
+      internalID: 2559397764398707386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DontLetTheRunnorDie_22
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 24
+        width: 2
+        height: 4
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e14f22978c32fc49920cddbc0abe0a0
+      internalID: 5605948245676417359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DontLetTheRunnorDie_23
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 24
+        width: 3
+        height: 4
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c781539baec78e4f8207cfb05240112
+      internalID: 3087197320244319520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DontLetTheRunnorDie_24
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f04654c78b47443a8732bc4cd7876e
+      internalID: 6593686340059085102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DontLetTheRunnorDie_25
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 14
+        width: 15
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7992bac4062466743bd56244309ee07c
+      internalID: -3464235951464441756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DontLetTheRunnorDie_26
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 49
+        width: 4
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee65ae0de3678147aca3c374ef43dbe
+      internalID: -5293386769194472102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DontLetTheRunnorDie_27
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 49
+        width: 7
+        height: 13
+      alignment: 9
+      pivot: {x: 0.7265625, y: 0.0052478495}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e836a89387bd720489513a08601c1dca
+      internalID: 6541710580434109903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DontLetTheRunnorDie_28
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 49
+        width: 4
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08518a4918d50644b97131aa2a77d7ec
+      internalID: 7609072536927241770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DontLetTheRunnorDie_29
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 49
+        width: 8
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6910bc9df4ceafb41a17623ccbdd2aeb
+      internalID: -1150193928431310451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DontLetTheRunnorDie_30
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 50
+        width: 15
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d610b345e40f4d745ad9ea18c421d48c
+      internalID: -2831435860484035199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DontLetTheRunnorDie_31
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 58
+        width: 12
+        height: 6
+      alignment: 9
+      pivot: {x: 0.998333, y: 0.08666738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4289afcdc21414996d1f7551c576a6
+      internalID: -3387800140607688024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DontLetTheRunnorDie_32
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 51
+        width: 12
+        height: 7
+      alignment: 9
+      pivot: {x: 1, y: 0.21142904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59adbb1fb6538744ab671d68aee4eaf5
+      internalID: -2884962947113309662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DontLetTheRunnorDie_33
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 49
+        width: 12
+        height: 2
+      alignment: 9
+      pivot: {x: 0.9966672, y: 0.23000526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a498cc936808ad8499db2d7924e8f19b
+      internalID: -3489003002379617277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DontLetTheRunnorDie_34
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 45
+        width: 12
+        height: 2
+      alignment: 9
+      pivot: {x: 0.998333, y: 0.77000237}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc83319973627e41b1be31836e2cccd
+      internalID: 2853465261385985528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DontLetTheRunnorDie_35
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 46
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea649264a465a7142bcdb09a66de361d
+      internalID: 1210749308220844459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 343be5af15311eb488837670a68b0072
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
